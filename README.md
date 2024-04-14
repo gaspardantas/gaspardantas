@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a professional website
+- 🌱 I’m currently learning C#
+- ⚡ Fun fact about me, I'm a Black Belt in Brazilian Jiu-Jitsu
 <!--
 **gaspardantas/gaspardantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
