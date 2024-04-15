@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a professional website
-- 🌱 I’m currently learning C#
+My name is Gaspar, I'm a computer engineer interested in programming, and data science.
+
+- 🔭 I’m currently working on a professional website to add on my to my personal [website](https://www.gaspardantas.com).
+  
+- 🌱 I’m currently learning C#, and creating projects to showcase my programming skills.
 - ⚡ Fun fact about me, I'm a Black Belt in Brazilian Jiu-Jitsu
 <!--
 **gaspardantas/gaspardantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
