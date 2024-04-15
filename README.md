@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gaspar, I'm a computer engineer interested in programming, and data science.
+I'm a computer engineer interested in programming, and data science.
 
 - 🔭 Currently working on some fun games to enrich my personal [website](https://www.gaspardantas.com).
 - 🌱 I’m actively enhancing my programming language skills while delving into new areas.
