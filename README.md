@@ -2,7 +2,7 @@
 
 I'm a computer engineer interested in programming, and data science.
 
-- 🔭 Currently working on some fun games to enrich my personal [website](https://www.gaspardantas.com).
+- 🔭 Currently working on some fun games to enrich my personal portfolio.
 - 🌱 I’m actively enhancing my programming language skills while delving into new areas.
 - ⚡ Fun fact: I achieved Black Belt status in Brazilian Jiu-Jitsu, blending mental prowess with physical agility.
 <!--
