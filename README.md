@@ -2,9 +2,10 @@
 
 I'm interested in software development, and data science.
 
-- 🔭 Currently working on some fun games to enrich my personal portfolio.
-- 🌱 I’m actively enhancing my programming language skills while delving into new areas.
-- ⚡ Fun fact: I achieved Black Belt status in Brazilian Jiu-Jitsu, blending mental prowess with physical agility.
+🔭 Currently pursuing a Computer Science degree at the University of Central Florida
+🌱 This semester, focused on mastering leadership skills, advanced C programming, Discrete Structures, and deepening my knowledge of Math and Physics
+💼 Actively seeking internship opportunities in the technology field to apply and expand my skills
+⚡ Fun fact: I hold a Black Belt in Brazilian Jiu-Jitsu, where mental strategy meets physical precision
 <!--
 **gaspardantas/gaspardantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
