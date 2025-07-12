@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm interested in software development, and data science.
+My currently working role: UCF CWEP @ LOCKHEED MARTIN, MISSILES AND FIRE CONTROL, part of the Engineering Process Improvement team.
 
-- 🔭 Currently a senior working towards a Computer Science degree at the University of Central Florida.
-- 🌱 This semester, focused on mastering leadership skills, advanced C programming, Discrete Structures, and deepening my knowledge of Math and Physics.
-- 💼 Actively seeking internship opportunities in the technology field to apply and expand my skills.
+- 🔭 I’m a Computer Science major at the University of Central Florida, with minors in Data Science and Mathematics.
+- 🌱 I enjoy exploring the intersection of computing, data, and logic—leveraging analytical thinking to solve real-world problems.
 - ⚡ Fun fact: I hold a Black Belt in Brazilian Jiu-Jitsu, where mental strategy meets physical precision.
 <!--
 **gaspardantas/gaspardantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
