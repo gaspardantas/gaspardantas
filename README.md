@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My currently working role: UCF CWEP @ LOCKHEED MARTIN, Software Developer and Data Analyst, part of the Engineering Process Improvement team.
+My currently working role: Amazon Automation Engineering Intern
+
+My previous role: UCF CWEP @ LOCKHEED MARTIN, Software Developer and Data Analyst, part of the Engineering Process Improvement team.
 
 - 🔭 I’m a Computer Science major at the University of Central Florida, with minors in Data Science and Mathematics.
 - 🌱 I enjoy exploring the intersection of computing, data, and logic—leveraging analytical thinking to solve real-world problems.
