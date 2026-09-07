@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My currently working role: Amazon Automation Engineering Intern
+I am a Computer Science student at the University of Central Florida with professional experience across software development, data analysis, and industrial automation.
 
-My previous role: UCF CWEP @ LOCKHEED MARTIN, Software Developer and Data Analyst, part of the Engineering Process Improvement team.
+Most recently, I completed an Automation Engineering internship at Amazon, where I supported automated conveyor and sortation systems through troubleshooting, root cause analysis, SCADA development, and continuous process improvement. Previously, at Lockheed Martin, I contributed to software development and data analysis initiatives, gaining experience working with engineering teams and developing solutions to improve processes and reporting.
 
-- 🔭 I’m a Computer Science major at the University of Central Florida, with minors in Data Science and Mathematics.
+I enjoy solving complex problems, learning across technical disciplines, and applying technology to create measurable improvements. As I continue toward graduation, I am focused on expanding my engineering experience and preparing for the next stage of my career.
+
 - 🌱 I enjoy exploring the intersection of computing, data, and logic—leveraging analytical thinking to solve real-world problems.
 - ⚡ Fun fact: I hold a Black Belt in Brazilian Jiu-Jitsu, where mental strategy meets physical precision.
 <!--
